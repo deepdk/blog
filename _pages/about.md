@@ -4,10 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hello and welcome to my blog. My name is Deeplali H.Kank. I am a data science and machine learning enthusiast. I have completed my masters in statistics. I love reading books in my free time 📚.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+### Contact
+Here's my mail ID : deepalikank1@gmail.com
