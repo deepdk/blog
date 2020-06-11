@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: Hello and welcome to my blog.
+title: Deepali's Blog📝
+description: Blog about amazing stories.
 github_username: deepdk
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
@@ -42,6 +42,7 @@ minima:
     twitter: deepalikank
     github: deepdk
     linkedin: deepali-kank-092a75129
+    telegram: deepalikank
 
 # Set this to true to get LaTeX math equation support
 use_math: 
